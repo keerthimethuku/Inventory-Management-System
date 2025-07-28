@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #b99470;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #333;
+}
+
+.inventory, .add-item, .billing, .counter-box {
+  background-color: #fefae0;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+input, select, button {
+  margin: 5px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #d18a6a;
+  border: none;
+  color: rgb(18, 16, 16);
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #975427;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
