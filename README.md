@@ -6,13 +6,10 @@ The system supports Telugu and English item names for easy accessibility, especi
 
 
 Contribution to Kirana Shops:
+
  Helps digitize inventory management without costly software
-
  Reduces manual errors during billing and stock calculation
-
  Enables shopkeepers to track daily sales and customer transactions
-
  Empowers local language usage for better accessibility
-
  Saves time and increases efficiency for shop owners with minimal tech skills
 
